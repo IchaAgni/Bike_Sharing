@@ -23,25 +23,21 @@ This project is a data analysis and visualization project focused on Bike Sharin
 
 Clone this repository to your local machine:
 ```
-git clone [https://github.com/IchaAgni/BikeSaharing.git]
+git clone https://github.com/IchaAgni/BikeSaharing.git
 ```
-## Setup Environment - Anaconda
-
+### Setup Environment - Anaconda
 ```
 conda create --name main-bike python=3.9
 conda activate main-bike
 pip install -r requirements.txt
-
 ```
-
-## Setup Environment - Shell/Terminal
+### Setup Environment - Shell/Terminal
 Go to the project directory
 ```
 cd Bike Sharing
 cd dashboard
 ```
-
-## Run steamlit app
+### Run steamlit app
 ```
 streamlit run dashboard.py
 ```
