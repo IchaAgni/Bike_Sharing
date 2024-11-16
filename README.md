@@ -1,6 +1,6 @@
 # Bike Sharing Analysis with Python - Dicoding  ✨
 
-[Bike Sharing Dashboard Streamlit App]([https://bikesharing21.streamlit.app/])
+[Bike Sharing Dashboard Streamlit App](https://bikesharing21.streamlit.app/)
 
 ## Table of Contents
 - [Overview](#overview)
