@@ -2,6 +2,9 @@
 
 [Bike Sharing Dashboard Streamlit App](https://bikesharing21.streamlit.app/)
 
+![Bike-Sharing](https://github.com/IchaAgni/Bike_Sharing/blob/main/bike-sharing_streamlit.jpg)
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
